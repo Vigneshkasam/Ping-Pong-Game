@@ -1,1 +1,3 @@
-# Ping-Pong-Game
+# Pong-Game
+
+This project is a simple Pong game built using the raylib library in C++. It features a ball that moves across the screen, bouncing off the walls and paddles. The game includes two paddles: one controlled by the player using the arrow keys and one controlled by the CPU, which follows the ball's movement. The goal is to prevent the ball from passing your paddle while trying to score points by making it pass the opponent’s paddle. The game keeps track of the player’s and CPU’s scores and resets the ball when a point is scored. The graphics include a split-colored background, a center circle, and a scoreboard, making the game visually appealing.
